@@ -3,4 +3,14 @@
   <groupId>com.techsoln.hybridframework_team_b</groupId>
   <artifactId>com.techsoln.hybridframework_team_b</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.1.0</version>
+    <scope>test</scope>
+</dependency>
+  	
+  </dependencies>
 </project>
